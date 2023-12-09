@@ -1,0 +1,77 @@
+nume fisier bmp:  /home/anamaria/SO/Proiect/test/imagine.bmp
+ inaltime:  1280 
+ lungime: 1920 
+ dimensiune: 7372938 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 10 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 
+nume fisier bmp:  /home/anamaria/SO/Proiect/test/imagine.bmp
+ inaltime:  1280 
+ lungime: 1920 
+ dimensiune: 7372938 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 10 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 
+nume fisier bmp:  /home/anamaria/SO/Proiect/test/imagine.bmp
+ inaltime:  1280 
+ lungime: 1920 
+ dimensiune: 7372938 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 10 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 
+nume fisier bmp:  /home/anamaria/SO/Proiect/test/imagine.bmp
+ inaltime:  1280 
+ lungime: 1920 
+ dimensiune: 7372938 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 10 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 
+nume fisier bmp:  /home/anamaria/SO/Proiect/test/imagine.bmp
+ inaltime:  1280 
+ lungime: 1920 
+ dimensiune: 7372938 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 10 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 
+nume fisier bmp:  /home/anamaria/SO/Proiect/test/imagine.bmp
+ inaltime:  1280 
+ lungime: 1920 
+ dimensiune: 7372938 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 10 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 
+nume fisier bmp:  /home/anamaria/SO/Proiect/test/imagine.bmp
+ inaltime:  1280 
+ lungime: 1920 
+ dimensiune: 7372938 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 17 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 

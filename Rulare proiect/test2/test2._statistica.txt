@@ -1,0 +1,21 @@
+nume director:  /home/anamaria/SO/Proiect/test/test2.
+  indentificatorul utilizatorului: 1000
+  drepturi de acces user: RW-
+ drepturi de acces grup: -W-
+ drepturi de acces altii : ---
+ 
+
+nume director:  /home/anamaria/SO/Proiect/test/test2.
+  indentificatorul utilizatorului: 1000
+  drepturi de acces user: RW-
+ drepturi de acces grup: -W-
+ drepturi de acces altii : ---
+ 
+
+nume director:  /home/anamaria/SO/Proiect/test/test2.
+  indentificatorul utilizatorului: 1000
+  drepturi de acces user: RW-
+ drepturi de acces grup: -W-
+ drepturi de acces altii : ---
+ 
+

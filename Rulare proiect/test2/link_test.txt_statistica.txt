@@ -1,0 +1,70 @@
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+

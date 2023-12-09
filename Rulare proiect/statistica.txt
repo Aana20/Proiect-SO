@@ -1,0 +1,34 @@
+nume legatura:  /home/anamaria/SO/Proiect/test/link_test.txt
+  dimensiune: 6 
+  dimensiune fisier: 6 
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
+nume fisier bmp:  /home/anamaria/SO/Proiect/test/imagine.bmp
+ inaltime:  1280 
+ lungime: 1920 
+ dimensiune: 7372938 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 10 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 
+nume director:  /home/anamaria/SO/Proiect/test/test2.
+  indentificatorul utilizatorului: 1000
+  drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+ 
+
+nume fisier obisnuit :  /home/anamaria/SO/Proiect/test/test.txt
+  dimensiune: 6 
+ indentificatorul utilizatorului: 1000
+ timpul ultimei modificari : 10 Nov 2023 
+ contorul de legaturi: 1
+ drepturi de acces user: RW-
+ drepturi de acces grup: RW-
+ drepturi de acces altii : R--
+
